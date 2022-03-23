@@ -1,0 +1,3 @@
+export const GET_PRODUCT = "GET_PRODUCT";
+
+export const SELECTED_PRODUCT = "SELECTED_PRODUCT";
